@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>first.html</title>
+</head>
+<body bgcolor=#00000 text=WHITE>
+<img height="100px" width="200px" src="./media/thor-img.webp"alt="thor-img">
+     <img src="./media/iron-man.jpg"alt="iron man-img">
+     <img src="./media/doctor-strange.jpg"alt="doctor strange-img">
+     <img src="./media/spider-man.jpg"alt="spider man-img">
+     <img src="./media/captain-america.jpg"alt="captain america-img">
+     <audio controls><source src="./media/rain-audio.mp3"></audio>
+     <video controls height="500PX" width="600PX"><source src="./media/thor-video.mp4"</video>
+     <video controls height="500PX" width="600PX"><source src="./media/spider man-video.mp4"</video>
+     </body>
+</html>
